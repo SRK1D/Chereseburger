@@ -1,0 +1,33 @@
+{
+  "name": "discord.js-bot-template",
+  "version": "1.0.0",
+  "description": "Discord.js bot template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "discordjs",
+    "discord bot",
+    "discord-bot",
+    "discordjs bot"
+  ],
+  "author": "Error-Cezar",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "discord-api-types": "^0.31.1",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "enmap": "^5.9.0",
+    "express": "^4.18.0",
+    "moment": "^2.29.3",
+    "moment-timezone": "^0.5.34",
+    "tweetnacl": "^1.0.3"
+  }
+}
